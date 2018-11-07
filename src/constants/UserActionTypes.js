@@ -1,0 +1,6 @@
+export const TRY_REGISTER_USER="TRY_REGISTER_USER"
+export const REGISTER_USER="REGISTER_USER"
+export const HANDLE_AUTH_ERR="HANDLE_AUTH_ERR"
+export const LOGOUT_USER="LOGOUT_USER"
+export const LOGIN_USER="LOGIN_USER"
+export const GET_CART="GET_CART"
